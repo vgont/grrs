@@ -1,0 +1,4 @@
+pattern
+not pattern
+maybe pattern
+nothing
